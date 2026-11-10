@@ -9,7 +9,7 @@ Estudante de Engenharia de Software, com formação técnica integrada em TI. Te
 - [Exercícios de Python](https://github.com/tkshacota/exercicios-python) — atividades de estudo e pequenos programas.
 - [Portfólio em HTML e CSS](https://github.com/tkshacota/projeto-kaua) — projeto introdutório de apresentação web.
 
-Os projetos de portfólio são pessoais ou de estudo e usam exemplos sintéticos. Não representam experiência profissional.
+Os projetos de portfólio são pessoais ou de estudo e usam exemplos sintéticos. Alguns foram preparados com apoio de IA; não representam experiência profissional.
 
 ## Contato
 
